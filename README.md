@@ -10,7 +10,7 @@ Vào google gõ VS Community 2022 và tải về bản mới nhất, cài đặt
 Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã tải về
 # Mô tả chung về trò chơi
 Thể loại: Game đi ải, platformer, Mario, Contra,....
-![image](https://github.com/user-attachments/assets/fd21ff4e-30f5-40c0-acfc-04b3c711c26b)
+![image](https://github.com/user-attachments/assets/4d428267-78a1-4cc4-b635-f90d3af1aa13)
 
 
 Game sinh tồn phiêu lưu trong thế giới 2D, lấy ý tưởng từ tựa game nổi tiếng Contra nhưng sử dụng đồ họa
@@ -19,15 +19,15 @@ Người chơi sẽ hóa thân vào vai một trong những nhân vật ở th�
 - Điều khiển nhân vật bằng các phím a, d để di chuyển sang trái và phải
 - Sử dụng nút phải chuột để bắn ra quả cầu ma thuật, nút trái chuột để nhảy di chuyển và tránh các chướng ngại
 - Sử dụng các button chức năng như pause, quit
-- 
-![image](https://github.com/user-attachments/assets/148e3b35-db84-4aac-a45c-95a7913d83de)
+![image](https://github.com/user-attachments/assets/78f26eed-fd8e-4033-9ac9-ee3354fb4308)
+
 - Có hai dạng quái: chuyển động và đứng yên
 - Quái vật chuyển động sẽ tự đuổi người chơi trong phạm vi tấn công và quái vật tĩnh sẽ bắn đạn khi người chơi ở trong tầm ngắm của quái
 - Chèn âm thanh vào các button
 - Được phép chọn nhân vật, chọn Map tăng hứng thú cho người chơi
 - Ghi điểm, được hiện ở thanh menu phía trên màn hình
 - Khi kết thức trò chơi, ta có thể chơi lại hoặc thoát về menu ban đầu
-![image](https://github.com/user-attachments/assets/09646ef2-d379-4ff2-a30b-91141c8e30db)
+![image](https://github.com/user-attachments/assets/481581c5-7236-4779-85ed-6cc10881e3a0)
 
 # Các kĩ thuật được sử dụng
 - Sử dụng thư viện đồ họa SDL2
