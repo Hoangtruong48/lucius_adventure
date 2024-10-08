@@ -1,6 +1,9 @@
 # lucius-adventure
 - Họ và tên: Tống Kim Hoàng Trường
 - Mã sinh viên: 2020600943
+# Poster game
+![att KNk1OfB8CYGgS_kRKQMsbYzFeJ4BRh2WghU41LNHhR0](https://github.com/user-attachments/assets/fd4fcb02-3921-4825-816d-fce04af9d6dd)
+
 # Hướng dẫn cài đặt và chạy game
 - Bước 1: Tải project về
 Cách 1: Trên Github, chọn Code => Copy url, sau đó mở Terminal, gõ git clone + url Cách 2: Tải trực tiếp file Zip về và giải nén
